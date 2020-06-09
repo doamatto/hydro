@@ -1,0 +1,26 @@
+{
+  "name": "hydrationbot",
+  "version": "0.1.0",
+  "description": "A hydration bot for Twitch",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doamatto/hydrationbot.git"
+  },
+  "keywords": [
+    "twitch",
+    "bot"
+  ],
+  "dependencies": {
+    "tmi.js": ">1.5.0"
+  },
+  "author": "Advewave & doamatto",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/doamatto/hydrationbot/issues"
+  },
+  "homepage": "https://github.com/doamatto/hydrationbot#readme"
+}
