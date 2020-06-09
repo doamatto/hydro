@@ -15,9 +15,18 @@
     "bot"
   ],
   "dependencies": {
-    "tmi.js": ">1.5.0"
+    "tmi.js": "1.5",
+    "sqlite": "4.0"
   },
-  "author": "Advewave & doamatto",
+  "contributors": [
+    {
+      "name": "doamatto",
+      "email": "hello@doamatto.xyz",
+      "url": "https://doamatto.xyz"
+    }, {
+      "name": "Advewave"
+    }
+  ],
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/doamatto/hydrationbot/issues"
