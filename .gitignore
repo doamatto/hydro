@@ -220,3 +220,6 @@ dist
 .history
 
 # End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode,intellij
+
+# Just so we don't leak a token or two
+config.json
