@@ -1,13 +1,14 @@
 # Hydration Bot
 
-TODO:
-- Brainstorm a better name
-- ~~Find out how to actually build this~~
-- Decide how to sorta promote it
-- Have two modes: 30m (or so) and 1h30m (or so) (this is just so there's more range in between)
-- Have a pretty decent README (I've got this - doamatto)
-- Figure out if/how to do per-channel config.
+This is a Twitch bot built to tell you to stay hydrated.
 
-MUST-DOS™:
-- Make it opt-in (it would eat a lot of resources if we didn't)
-- Make it only when live (again, for preserving resources)
+If you want some more detail it can/will be able to:
+- Notify you and the rest of chat every 30m or 1h30m (these are the main presets) to get hydrated
+- Customize down to the minute how often you want to be notified (there is a min and max time limit to this; what that limit is is to be determined)
+- Change languages from English to something else
+
+**For info on installing and using the bot, please check the wiki [here](https://github.com/doamatto/mallow-theme/wiki).**
+
+### Acknowledgements
+
+This bot was inspiried by the OG [Stay_Hydrated_Bot](https://www.twitch.tv/stay_hydrated_bot) that has since been broken (the bot doesn't work and no activity (it seems) since June 2019). This was co-developed by [Hope](https://github.com/Advewave). It was my first project on Twitch and it's dangerous to go alone ;)
