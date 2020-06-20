@@ -15,6 +15,7 @@
     "bot"
   ],
   "dependencies": {
+    "node-fetch": "2.6",
     "tmi.js": "1.5",
     "sqlite": "4.0"
   },
@@ -23,8 +24,10 @@
       "name": "doamatto",
       "email": "hello@doamatto.xyz",
       "url": "https://doamatto.xyz"
-    }, {
-      "name": "Advewave"
+    },
+    {
+      "name": "Advewave",
+      "url": "https://github.com/advewave"
     }
   ],
   "license": "GPL-3.0",
