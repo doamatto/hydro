@@ -1,11 +1,4 @@
 {
-  "opts": [{
-    "identity": {
-      "username": "",
-      "password": ""
-    },
-    "channels": [
-      ""
-    ]
-  }]
+  "client-id": "",
+  "auth-token": ""
 }
