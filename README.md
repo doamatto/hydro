@@ -1,4 +1,4 @@
-# Hydration Bot
+# Hydro
 
 This is a Twitch bot built to tell you to stay hydrated.
 
@@ -7,7 +7,7 @@ If you want some more detail it can/will be able to:
 - Customize down to the minute how often you want to be notified (there is a min and max time limit to this; what that limit is is to be determined)
 - Change languages from English to something else
 
-**For info on installing and using the bot, please check the wiki [here](https://github.com/doamatto/hydrationbot/wiki).**
+**For info on installing and using the bot, please check the wiki [here](https://github.com/doamatto/hydro/wiki).**
 
 ### Acknowledgements
 
