@@ -11,4 +11,4 @@ If you want some more detail it can/will be able to:
 
 ### Acknowledgements
 
-This bot was inspiried by the OG [Stay_Hydrated_Bot](https://www.twitch.tv/stay_hydrated_bot) that has since been broken (the bot doesn't work and no activity (it seems) since June 2019). This was co-developed by [Hope](https://github.com/Advewave). It was my first project on Twitch and it's dangerous to go alone ;)
+This bot was inspiried by the OG [Stay_Hydrated_Bot](https://www.twitch.tv/stay_hydrated_bot) that has since been broken (the bot doesn't work and no activity (it seems) since June 2019). 
