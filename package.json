@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "node-fetch": "2.6",
-    "tmi.js": "1.7",
+    "tmi.js": "1.8",
     "sqlite": "4.0"
   },
   "contributors": [
